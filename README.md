@@ -2,7 +2,7 @@
  
  
 
-<img align="right" src="https://github.com/ibrahimAnis/ibrahimAnis/blob/main/developer.gif" alt="Coder GIF" width="500" height="400">
+<img align="right" src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" alt="Coder GIF" width="500" height="400">
 
  <a href="https://github.com/ibrahimAnis">
   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Saksham's Dev" width="26"/>
@@ -26,7 +26,7 @@
 
 
 - :telescope: I'm currently working as a Software Engineer at Accolite Digital in Prudential Team;
-I've been working on a fintech app called PULSE that provides insurance and medical consultation. Prior to that I worked on AI/ML based product called faceopen as a C++ Developer Intern.
+I've been working on a fintech app called PULSE that provides insurance and medical consultation.
 - :hourglass_flowing_sand:Working on a Project [Database Designing Tool](https://github.com/ibrahimAnis/DatabaseDesigningTool)
 - 💬 I love to contribute in Open source projects and connecting with different people:);
 - 📫 How to reach me: anisibrahim21@gmail.com;
