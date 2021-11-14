@@ -2,18 +2,18 @@
  
  
 
-<img align="right" src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" alt="Coder GIF" width="500" height="400">
+<img align="right" src="https://media.giphy.com/media/i1JHRZSXO9LZZDHqii/giphy.gif" alt="Coder GIF" width="500" height="400">
 
  <a href="https://github.com/ibrahimAnis">
   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Saksham's Dev" width="26"/>
 </a>
-<a href="https://twitter.com/fiend_op">
+<a href="https://twitter.com/1brahim4nis">
   <img align="left" alt="Ibrahim Anis | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/ibrahimanis/">
   <img align="left" alt="Ibrahim's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://www.instagram.com/capable_saksham_/">
+<a href="https://www.instagram.com/1brahim_4nis/">
   <img align="left" alt="Ibrahim's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <a href="https://ibrahimAnis.github.io/portfolio/">
