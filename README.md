@@ -32,7 +32,7 @@ I've been working on a fintech app called PULSE that provides insurance and medi
 - 📫 How to reach me: anisibrahim21@gmail.com;
 <br><br><br><br>
 
-![](https://img.shields.io/badge/Java-%3C%2F%3E-blueviolet) ![](https://img.shields.io/badge/Advance%20Java-%3C%2F%3E-yellow) ![](https://img.shields.io/badge/NodeJS-%3C%2F%3E-orange) ![](https://img.shields.io/badge/Python-%7C-0%2C%2022%2C%20100) ![](https://img.shields.io/badge/JavaScript-%7C-yellowgreen) ![](https://img.shields.io/badge/Dart-%7C-blue) ![](https://img.shields.io/badge/Springboot-%7C-blue) <a href="https://github.com/ibrahimAnis">
+![](https://img.shields.io/badge/Java-%3C%2F%3E-blueviolet) ![](https://img.shields.io/badge/Advance%20Java-%3C%2F%3E-yellow) ![](https://img.shields.io/badge/NodeJS-%3C%2F%3E-orange) ![](https://img.shields.io/badge/Python-%7C-0%2C%2022%2C%20100) ![](https://img.shields.io/badge/JavaScript-%7C-yellowgreen) ![](https://img.shields.io/badge/Android-%7C-blue) ![](https://img.shields.io/badge/Springboot-%7C-blue) <a href="https://github.com/ibrahimAnis">
   <img src="https://komarev.com/ghpvc/?username=ibrahimAnis&label=Views&color=blue&style=plastic" alt="ibrahimAnis" />
 </a>
 
