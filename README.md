@@ -16,7 +16,7 @@
 <a href="https://www.instagram.com/1brahim_4nis/">
   <img align="left" alt="Ibrahim's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<a href="https://anis-portfolio.herokuapp.com/">
+<a href="https://ibrahimanis.github.io/ibrahim-anis-devfolio/">
   <img align="left" alt="Ibrahim's Portfolio" width="26px" src="https://pbs.twimg.com/profile_images/1212398116101472257/VVvZ_m4A_400x400.png"/>
 </a><br><br>
 
