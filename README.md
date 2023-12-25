@@ -3,16 +3,10 @@
  
 
 <img align="right" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" alt="Coder GIF" width="500" height="400">
- <a href="https://github.com/ibrahimAnis">
-  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Saksham's Dev" width="26"/>
-</a>
 <a href="https://www.linkedin.com/in/ibrahimanis/">
   <img align="left" alt="Ibrahim's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<br><br>
-
-
-
+<br>
 
 
 
