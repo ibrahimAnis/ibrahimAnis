@@ -25,8 +25,7 @@
 
 
 
-- :telescope: I'm currently working as a Software Engineer at Accolite Digital in Prudential Team;
-I've been working on a fintech app called PULSE that provides insurance and medical consultation.
+- :telescope: Hi, My name is Ibrahim Anis and I am a passionate software developer working at Furlenco.
 - :hourglass_flowing_sand:Working on a Project [Database Designing Tool](https://github.com/ibrahimAnis/DatabaseDesigningTool)
 - 💬 I love to contribute in Open source projects and connecting with different people:);
 - 📫 How to reach me: anisibrahim21@gmail.com;
