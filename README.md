@@ -40,6 +40,6 @@ I am passionate about continuous learning and staying updated with the latest te
 
 ### 📫 Let's Connect!
 
-Feel free to connect with me on [LinkedIn](https://linkedin.com/in/ibrahimanis) or [Twitter](your-twitter-profile). I'm open to collaborations, discussions, and new opportunities.
+Feel free to connect with me on [LinkedIn](https://linkedin.com/in/ibrahimanis). I'm open to collaborations, discussions, and new opportunities.
 
 Thank you for visiting my GitHub profile! Happy coding! 🚀
