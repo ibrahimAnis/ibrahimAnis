@@ -20,7 +20,7 @@
 ### 🔧 Technologies & Skills
 
 - **Java & Spring Boot:** Expert in developing microservices using Java and Spring Boot.
-- **C++:** Proficient in system-level programming.
+- **C++:** Proficient in system-level programming. 
 - **Web Development:** Skilled in JavaScript for web application development.
 - **Automation:** Experienced in scripting and automation with Python.
 - **Microservices Architecture:** Adept at designing and building scalable microservices.
