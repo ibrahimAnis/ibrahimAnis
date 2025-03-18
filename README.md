@@ -5,7 +5,7 @@
   <a href="https://linkedin.com/in/ibrahimanis">
     <img src="https://img.shields.io/badge/LinkedIn-ibrahimanis-blue?style=flat&logo=linkedin" alt="LinkedIn" />
   </a>
-  <a href="https://ibrahimanis.github.io/ibrahim-anis-devfolio">
+  <a href="https://ibrahimanees.com">
     <img src="https://img.shields.io/badge/Portfolio-Visit-green?style=flat&logo=github" alt="Portfolio" />
   </a>
   <a href="https://github.com/ibrahimanis">
