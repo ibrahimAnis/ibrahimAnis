@@ -87,7 +87,7 @@ Always exploring the latest in **web technologies, security, and AI-powered auto
 ## 📫 Connect With Me  
 📌 **LinkedIn:** [ibrahimanis](https://linkedin.com/in/ibrahimanis)  
 📌 **GitHub:** [ibrahimanis](https://github.com/ibrahimanis)  
-📌 **Portfolio:** [ibrahimanis.github.io](https://ibrahimanis.github.io/ibrahim-anis-devfolio)  
+📌 **Portfolio:** [ibrahimanis](https://ibrahimanees.com)  
 
 💬 **Always open to discussions, collaborations, and sharing knowledge!** 🚀  
 
